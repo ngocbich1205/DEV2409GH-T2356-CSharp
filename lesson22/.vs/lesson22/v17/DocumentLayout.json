@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Dev2409GH-T2356-CSharp-Netcore\\lesson22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04E0B8D2-4816-4298-8233-0F8E55E7F4D6}|lab1-4\\lab1-4.csproj|c:\\users\\admin\\documents\\dev2409gh-t2356-csharp-netcore\\lesson22\\lab1-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E0B8D2-4816-4298-8233-0F8E55E7F4D6}|lab1-4\\lab1-4.csproj|solutionrelative:lab1-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389E174A-F507-41AF-8BE5-839EF6D71A8A}|lesson22\\lesson22.csproj|c:\\users\\admin\\documents\\dev2409gh-t2356-csharp-netcore\\lesson22\\lesson22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389E174A-F507-41AF-8BE5-839EF6D71A8A}|lesson22\\lesson22.csproj|solutionrelative:lesson22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FE8170-C519-4D7C-BCDC-C75BA62E416C}|lab1-2\\lab1-2.csproj|c:\\users\\admin\\documents\\dev2409gh-t2356-csharp-netcore\\lesson22\\lab1-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FE8170-C519-4D7C-BCDC-C75BA62E416C}|lab1-2\\lab1-2.csproj|solutionrelative:lab1-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD1A92A-846C-4AA4-A277-AB3C86B1DB87}|lab1-3\\lab1-3.csproj|c:\\users\\admin\\documents\\dev2409gh-t2356-csharp-netcore\\lesson22\\lab1-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD1A92A-846C-4AA4-A277-AB3C86B1DB87}|lab1-3\\lab1-3.csproj|solutionrelative:lab1-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Dev2409GH-T2356-CSharp-Netcore\\lesson22\\lab1-4\\Program.cs",
+              "RelativeDocumentMoniker": "lab1-4\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Dev2409GH-T2356-CSharp-Netcore\\lesson22\\lab1-4\\Program.cs",
+              "RelativeToolTip": "lab1-4\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:42:05.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Dev2409GH-T2356-CSharp-Netcore\\lesson22\\lab1-3\\Program.cs",
+              "RelativeDocumentMoniker": "lab1-3\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Dev2409GH-T2356-CSharp-Netcore\\lesson22\\lab1-3\\Program.cs",
+              "RelativeToolTip": "lab1-3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:31:40.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Dev2409GH-T2356-CSharp-Netcore\\lesson22\\lab1-2\\Program.cs",
+              "RelativeDocumentMoniker": "lab1-2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Dev2409GH-T2356-CSharp-Netcore\\lesson22\\lab1-2\\Program.cs",
+              "RelativeToolTip": "lab1-2\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:20:54.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Dev2409GH-T2356-CSharp-Netcore\\lesson22\\lesson22\\Program.cs",
+              "RelativeDocumentMoniker": "lesson22\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Dev2409GH-T2356-CSharp-Netcore\\lesson22\\lesson22\\Program.cs",
+              "RelativeToolTip": "lesson22\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:09:55.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Dev2409GH-T2356-CSharp-Netcore\lesson22\lesson22\bin\Debug\net8.0\lesson22.exe
+C:\Users\Admin\Documents\Dev2409GH-T2356-CSharp-Netcore\lesson22\lesson22\bin\Debug\net8.0\lesson22.deps.json
+C:\Users\Admin\Documents\Dev2409GH-T2356-CSharp-Netcore\lesson22\lesson22\bin\Debug\net8.0\lesson22.runtimeconfig.json
+C:\Users\Admin\Documents\Dev2409GH-T2356-CSharp-Netcore\lesson22\lesson22\bin\Debug\net8.0\lesson22.dll
+C:\Users\Admin\Documents\Dev2409GH-T2356-CSharp-Netcore\lesson22\lesson22\bin\Debug\net8.0\lesson22.pdb
+C:\Users\Admin\Documents\Dev2409GH-T2356-CSharp-Netcore\lesson22\lesson22\obj\Debug\net8.0\lesson22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Dev2409GH-T2356-CSharp-Netcore\lesson22\lesson22\obj\Debug\net8.0\lesson22.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Dev2409GH-T2356-CSharp-Netcore\lesson22\lesson22\obj\Debug\net8.0\lesson22.AssemblyInfo.cs
+C:\Users\Admin\Documents\Dev2409GH-T2356-CSharp-Netcore\lesson22\lesson22\obj\Debug\net8.0\lesson22.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Dev2409GH-T2356-CSharp-Netcore\lesson22\lesson22\obj\Debug\net8.0\lesson22.dll
+C:\Users\Admin\Documents\Dev2409GH-T2356-CSharp-Netcore\lesson22\lesson22\obj\Debug\net8.0\refint\lesson22.dll
+C:\Users\Admin\Documents\Dev2409GH-T2356-CSharp-Netcore\lesson22\lesson22\obj\Debug\net8.0\lesson22.pdb
+C:\Users\Admin\Documents\Dev2409GH-T2356-CSharp-Netcore\lesson22\lesson22\obj\Debug\net8.0\lesson22.genruntimeconfig.cache
+C:\Users\Admin\Documents\Dev2409GH-T2356-CSharp-Netcore\lesson22\lesson22\obj\Debug\net8.0\ref\lesson22.dll
