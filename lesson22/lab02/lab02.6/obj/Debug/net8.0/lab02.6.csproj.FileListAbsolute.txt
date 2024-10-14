@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lesson22\lab02\lab02.6\bin\Debug\net8.0\lab02.6.exe
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lesson22\lab02\lab02.6\bin\Debug\net8.0\lab02.6.deps.json
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lesson22\lab02\lab02.6\bin\Debug\net8.0\lab02.6.runtimeconfig.json
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lesson22\lab02\lab02.6\bin\Debug\net8.0\lab02.6.dll
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lesson22\lab02\lab02.6\bin\Debug\net8.0\lab02.6.pdb
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lesson22\lab02\lab02.6\obj\Debug\net8.0\lab02.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lesson22\lab02\lab02.6\obj\Debug\net8.0\lab02.6.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lesson22\lab02\lab02.6\obj\Debug\net8.0\lab02.6.AssemblyInfo.cs
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lesson22\lab02\lab02.6\obj\Debug\net8.0\lab02.6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lesson22\lab02\lab02.6\obj\Debug\net8.0\lab02.6.sourcelink.json
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lesson22\lab02\lab02.6\obj\Debug\net8.0\lab02.6.dll
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lesson22\lab02\lab02.6\obj\Debug\net8.0\refint\lab02.6.dll
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lesson22\lab02\lab02.6\obj\Debug\net8.0\lab02.6.pdb
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lesson22\lab02\lab02.6\obj\Debug\net8.0\lab02.6.genruntimeconfig.cache
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lesson22\lab02\lab02.6\obj\Debug\net8.0\ref\lab02.6.dll
