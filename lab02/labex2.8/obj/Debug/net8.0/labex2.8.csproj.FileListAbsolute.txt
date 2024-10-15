@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab02\labex2.8\bin\Debug\net8.0\labex2.8.exe
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab02\labex2.8\bin\Debug\net8.0\labex2.8.deps.json
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab02\labex2.8\bin\Debug\net8.0\labex2.8.runtimeconfig.json
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab02\labex2.8\bin\Debug\net8.0\labex2.8.dll
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab02\labex2.8\bin\Debug\net8.0\labex2.8.pdb
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab02\labex2.8\obj\Debug\net8.0\labex2.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab02\labex2.8\obj\Debug\net8.0\labex2.8.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab02\labex2.8\obj\Debug\net8.0\labex2.8.AssemblyInfo.cs
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab02\labex2.8\obj\Debug\net8.0\labex2.8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab02\labex2.8\obj\Debug\net8.0\labex2.8.sourcelink.json
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab02\labex2.8\obj\Debug\net8.0\labex2.8.dll
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab02\labex2.8\obj\Debug\net8.0\refint\labex2.8.dll
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab02\labex2.8\obj\Debug\net8.0\labex2.8.pdb
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab02\labex2.8\obj\Debug\net8.0\labex2.8.genruntimeconfig.cache
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab02\labex2.8\obj\Debug\net8.0\ref\labex2.8.dll
