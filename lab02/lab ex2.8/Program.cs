@@ -6,30 +6,32 @@
         {
             // nhap so tien gui, lai suat, so thang
             Console.Write("nhap vao so tien gui (VND): ");
-            decimal depositAmount = decimal.Parse(Console.ReadLine());
+            double sotiengui = double.Parse(Console.ReadLine());
 
             Console.Write("nhap lai suat hang nam (%): ");
-            decimal annualInterestRate = decimal.Parse(Console.ReadLine());
+            double laisuatnam = double.Parse(Console.ReadLine());
 
             Console.Write("nhap so thang: ");
-            int months = int.Parse(Console.ReadLine());
+            int sothanggui = int.Parse(Console.ReadLine());
 
             // tinh lai suat hang thang
-            decimal monthlyInterestRate = (annualInterestRate / 12) / 100;
+            double laisuathangthang = (laisuatnam / 12) / 100;
 
-            
-            decimal finalBalance = depositAmount;
-            for (int i = 1; i <= months; i++)
+
+            double sodu = sotiengui;
+            Console.WriteLine("Thang\t sodu\t lai");
+            for (int thang = 1; thang <= sothanggui; thang++)
             {
-                decimal interestEarned = finalBalance * monthlyInterestRate;
-                finalBalance += interestEarned;
-            }
+                // Calculate interest for the current month
+                double lai = sodu * laisuathangthang;
+                sodu += lai;
 
-            // in ra ket qua
-            Console.WriteLine("\n--- ket qua ---");
-            Console.WriteLine($"lai suat hang thang: {monthlyInterestRate * 100}%");
-            Console.WriteLine($"so du cuoi cung sau {months} thang: {finalBalance} VND");
+                // Print interest and balance for the current month
+                Console.WriteLine($"thang {thang}:\t{sodu:N2} \t{lai:N2}");
+            }
+            double tonglai = sodu - sotiengui;
+            Console.WriteLine($"tong lai sau{sothanggui} thang:{tonglai:N2}");
         }
+
     }
-    
 }
