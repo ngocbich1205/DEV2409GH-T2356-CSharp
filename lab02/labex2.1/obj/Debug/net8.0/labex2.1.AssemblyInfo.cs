@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("labex2.1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc45fbacf11fae30aad5d92a21626175318b77b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+035b81a36d4e4a36fbcb329ea7ba5e5118e203d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("labex2.1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("labex2.1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
