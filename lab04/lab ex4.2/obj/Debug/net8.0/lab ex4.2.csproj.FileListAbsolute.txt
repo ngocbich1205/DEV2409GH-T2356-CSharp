@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab04\lab ex4.2\bin\Debug\net8.0\lab ex4.2.exe
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab04\lab ex4.2\bin\Debug\net8.0\lab ex4.2.deps.json
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab04\lab ex4.2\bin\Debug\net8.0\lab ex4.2.runtimeconfig.json
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab04\lab ex4.2\bin\Debug\net8.0\lab ex4.2.dll
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab04\lab ex4.2\bin\Debug\net8.0\lab ex4.2.pdb
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab04\lab ex4.2\obj\Debug\net8.0\lab ex4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab04\lab ex4.2\obj\Debug\net8.0\lab ex4.2.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab04\lab ex4.2\obj\Debug\net8.0\lab ex4.2.AssemblyInfo.cs
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab04\lab ex4.2\obj\Debug\net8.0\lab ex4.2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab04\lab ex4.2\obj\Debug\net8.0\lab ex4.2.sourcelink.json
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab04\lab ex4.2\obj\Debug\net8.0\lab ex4.2.dll
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab04\lab ex4.2\obj\Debug\net8.0\refint\lab ex4.2.dll
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab04\lab ex4.2\obj\Debug\net8.0\lab ex4.2.pdb
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab04\lab ex4.2\obj\Debug\net8.0\lab ex4.2.genruntimeconfig.cache
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab04\lab ex4.2\obj\Debug\net8.0\ref\lab ex4.2.dll
