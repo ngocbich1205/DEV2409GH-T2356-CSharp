@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab30\lab30\bin\Debug\net8.0\lab30.exe
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab30\lab30\bin\Debug\net8.0\lab30.deps.json
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab30\lab30\bin\Debug\net8.0\lab30.runtimeconfig.json
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab30\lab30\bin\Debug\net8.0\lab30.dll
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab30\lab30\bin\Debug\net8.0\lab30.pdb
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab30\lab30\obj\Debug\net8.0\lab30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab30\lab30\obj\Debug\net8.0\lab30.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab30\lab30\obj\Debug\net8.0\lab30.AssemblyInfo.cs
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab30\lab30\obj\Debug\net8.0\lab30.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab30\lab30\obj\Debug\net8.0\lab30.sourcelink.json
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab30\lab30\obj\Debug\net8.0\lab30.dll
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab30\lab30\obj\Debug\net8.0\refint\lab30.dll
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab30\lab30\obj\Debug\net8.0\lab30.pdb
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab30\lab30\obj\Debug\net8.0\lab30.genruntimeconfig.cache
+C:\Users\Admin\Documents\DEV2409GH-T2356-CSharp\lab30\lab30\obj\Debug\net8.0\ref\lab30.dll
